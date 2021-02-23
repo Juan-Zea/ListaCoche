@@ -1,0 +1,15 @@
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.csprojAssemblyReference.cache
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.GUIAdicionarCoches.resources
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.GUIMostrarCoches.resources
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.GUIPrincipal.resources
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.Properties.Resources.resources
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.csproj.GenerateResource.cache
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.csproj.CoreCompileInputs.cache
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\bin\Debug\AplicacionListadoCoche.exe.config
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\bin\Debug\AplicacionListadoCoche.exe
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\bin\Debug\AplicacionListadoCoche.pdb
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.exe
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.pdb
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.GUIEliminarCoche.resources
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.GUIActualizar.resources
+C:\Users\judaz\Documents\Matematicas discretas\AplicacionListadoCoche\AplicacionListadoCoche\obj\Debug\AplicacionListadoCoche.GUIBuscar.resources
